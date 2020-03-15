@@ -1,0 +1,14 @@
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\082170033\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\willi\OneDrive\Área de Trabalho\DP\DP ALG-II\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb

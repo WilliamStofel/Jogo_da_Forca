@@ -1,0 +1,40 @@
+P:futebol
+D:Esporte mais conhecido do mundo.
+D:A cada 4 anos acontece uma competicao a nivel mundial.
+D:Esporte praticado com uma bola.
+P:videogames
+D:tambem conhecido como console.
+D:utiliza controles.
+D:movimenta um mercado financeiro atualmente maior que o de cinema.
+P:volei
+D:esporte que utiliza as maos.
+D:esporte coletivo.
+D:esporte muito praticado no brasil.
+P:everest
+D:montanha mais alto do mundo.
+D:fica aproximadamente a 8100 metros do nivel do mar.
+D:as temperaturas neste local sao abaixo de zero.
+P:televisao
+D:usado para entreterimento.
+D:hoje em dia tem na maioria das casas, muitas vezes mais que uma unidade.
+D:invencao criada a mais ou menos 70 anos.
+P:celular
+D:dispositivo criado com intuito de se comunicar com outras pessoas.
+D:hoje existem mais unidades deste eletronico do que pessoas no mundo.
+D:dispositivo que usa radiofrequencia para comunicacao.
+P:dinossauro
+D:viveu a milhoes de anos na terra.
+D:foram extintos por um meteoro.
+D:animais pre-historicos que em sua grande maioria eram carnivoros.
+P:china
+D:pais mais populoso do mundo.
+D:existem mais de 1 bilhao de habitantes nesse local.
+D:pais horiental.
+P:cachorro
+D:apesar de ser um animal dosmestico em nosso pais, em outros paises eles se alimentam dele.
+D:animal de 4 patas.
+D:animal domestico muito fiel ao seus donos.
+P:carro
+D:usado para locomocao.
+D:necessita de combustivel.
+D:os mais populares possuem 4 rodas.
